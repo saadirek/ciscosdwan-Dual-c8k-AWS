@@ -27,6 +27,9 @@ Login to the vManage
 - User Data = “config_1.cfg” for the C8KV-1
 - User Data = “config_2.cfg” for the C8KV-2
 
+
+***How to run the script***
+
 Make sure all requried files are located in the same folder
 ```        
 -rw-r--r--@ 1 sadirek  staff   5877 Oct 27 07:47 config_1.cfg
